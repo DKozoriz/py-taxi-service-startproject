@@ -1,0 +1,20 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+
+# Django
+db.sqlite3
+*.log
+
+# Migrations
+*/migrations/*.pyc
+*/migrations/*.pyo
+
+# IDE / OS
+.vscode/
+*.DS_Store
+Thumbs.db
